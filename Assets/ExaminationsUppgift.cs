@@ -57,7 +57,7 @@ public class ExaminationsUppgift : MonoBehaviour
         }if (Input.GetKey(KeyCode.W))
         {
             transform.Translate(0, moveSpeed * Time.deltaTime * 1.5f, 0);
-            rend.color = new Color(1,7f, 0, 0);
+            rend.color = new Color(1.7f, 0, 0);
             trailRend.endColor = new Color(0, 0, 1.9f);
             trailRend.startColor = new Color(0, 0, 2);
         }

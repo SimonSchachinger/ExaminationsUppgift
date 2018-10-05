@@ -440,13 +440,13 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1614133088}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 040eb4b868db7eb4eae7e2c352dd4ac0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   trailRend: {fileID: 1614133090}
-  rend: {fileID: 0}
+  rend: {fileID: 569370432}
   color: {r: 0.13514367, g: 0.1509434, b: 0.1260235, a: 0}
   moveSpeed: 0
   rotationSpeed: 0
